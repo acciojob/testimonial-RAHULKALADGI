@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+.container {
+	background-color : #f5f5f5;
+	width : 100vw;
+	height : 50vh;
+}
+h2 {
+	padding : 20px
+}
+#first {
+	background-color : white;
+	width : 95%;
+	margin : 10px auto;
+	border : 1px solid black;
+}
+#second {
+	background-color : white;
+	width : 95%;
+	margin : 10px auto;
+	border : 1px solid black;
+}
+#first>p {
+	margin-left : 20px; 
+}
+#first>em {
+	margin-left : 90%;
+}
+#second>p {
+	margin-left : 20px;
+}
+#second>em {
+	margin-left : 90%;
+}
