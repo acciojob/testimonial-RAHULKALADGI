@@ -13,25 +13,4 @@ h2 {
 	margin : 10px auto;
 	border : 1px solid black;
 }
-#second {
-	background-color : white;
-	width : 95%;
-	margin : 10px auto;
-	border : 1px solid black;
-}
-#first>p {
-	margin-left : 20px; 
-	text-align : right;
-}
-#first>em {
-	margin-left : 90%;
-	margin-right : 0%;
-}
-#second>p {
-	margin-left : 20px;
-	text-align : right;
-}
-#second>em {
-	margin-left : 90%;
-	margin-right : 0%;
-}
+
