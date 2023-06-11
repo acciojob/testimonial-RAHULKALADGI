@@ -21,13 +21,17 @@ h2 {
 }
 #first>p {
 	margin-left : 20px; 
+	text-align : right;
 }
 #first>em {
 	margin-left : 90%;
+	margin-right : 0%;
 }
 #second>p {
 	margin-left : 20px;
+	text-align : right;
 }
 #second>em {
 	margin-left : 90%;
+	margin-right : 0%;
 }
